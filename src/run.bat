@@ -1,0 +1,2 @@
+python chobocmd.py
+pause
